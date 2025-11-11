@@ -58,7 +58,7 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 ---
 
 
-## Top Guides
+## Top Guides & Tutorials
 
 * [Vibecoding Tips: The Ultimate Collection - Go Beyond the Prototype: Everything You Need To Build and Launch AI Products](https://karozieminski.substack.com/p/vibecoding-tips-the-ultimate-collection)
 
