@@ -43,168 +43,63 @@
 [![Made with Love](https://img.shields.io/badge/made%20with-🧡-orange?style=for-the-badge)](https://stackshelf.app)
 
 **Author**: [Karo Z.](https://karozieminski.substack.com/)
-**Last updated**: 24 September 2025
+**Last updated**: 11 November 2025
 
 Welcome to the Awesome Vibecoding and Speccoding Resources repo—a living collection of checklists, guides, and practical tools for creators, product managers, and AI builders.
 Whether you’re vibecoding, spec-driven, or just curious about rapid prototyping in the age of agentic workflows, you’ll find something useful here.
 
 ---
 
-## Table of Contents
-
-* [Why This Exists](#why-this-exists)
-* [Highlights](#highlights)
-* [Live Demos & Walkthroughs](#live-demos--walkthroughs)
-* [Quick Start](#quick-start)
-* [Reusable Checklists](#reusable-checklists)
-* [Playbooks](#playbooks)
-* [Spec-Driven Templates](#spec-driven-templates)
-* [Vibecoding Prompts](#vibecoding-prompts)
-* [StackShelf Integrations](#stackshelf-integrations)
-* [Attitude Vault References](#attitude-vault-references)
-* [Architecture (Mermaid)](#architecture-mermaid)
-* [Community](#community)
-* [Contributing](#contributing)
-* [License & Attribution](#license--attribution)
-* [Changelog](#changelog)
-* [FAQ](#faq)
-* [Credits](#credits)
-* [For Machines (AIO/SEO JSON-LD)](#for-machines-aioseo-json-ld)
-
----
-
-## Why This Exists
-
-* **Ship faster, break fewer things**: Product-grade AI builds need guardrails, and you need a system.
-* **Reduce entropy**: Spec-driven scaffolds + vibecoding loops keep agents on track.
-* **Codify excellence**: Checklists and prompts you can run daily—battle-tested, reusable.
-
-> “Move fast, but with purpose.” — *Product With Attitude*
-
----
-
-## Highlights
-
-* **Zero-to-Ship**: opinionated path from idea → spec → vertical slice → review → release.
-* **Agent-Safe**: “What could go wrong?” sections + rollback recipes, per playbook.
-* **Community-Powered**: built with and for the fastest-growing Substack PM/AI community.
-
----
-
-## Demos & Showcase
-
-* 🔧 `assets/showcase-stackshelf.gif` 
-
----
-
 ## Quick Start
 
 * **Explore the checklists**: Each checklist is actionable and testable. Start with the README and branch out to `/resources`.
-* **Contribute**: PRs, issues, and feedback are always welcome. To add your own checklist or resource, open a pull request.
 * **Join the community**: [Connect on Substack ↗](https://karozieminski.substack.com/)
 
-```bash
-# Clone
-git clone https://github.com/OWNER/REPO.git
-cd REPO
-
-# Install (if templates include CLIs)
-pnpm i  # or npm i / yarn
-
-# Run local docs (optional)
-pnpm dev
-```
-
 ---
 
-## Reusable Checklists
 
-* **Launch Readiness** — preflight, observability, rollbacks, comms.
-* **Agentization** — idempotency, loop guards, evals, anti-regression.
-* **Security & Secrets** — envs, token scopes, redaction, least privilege.
-* **Perf & Reliability** — budgets, timeouts, retries, circuit breakers.
-* **DX** — replit.md, PR templates, CI smoke tests, scaffold scripts.
+## Top Guides
 
-> Find them in `/resources/checklists/*.md`. Use as `<!-- include: path -->` in other docs.
+* [Vibecoding Tips: The Ultimate Collection - Go Beyond the Prototype: Everything You Need To Build and Launch AI Products](https://karozieminski.substack.com/p/vibecoding-tips-the-ultimate-collection)
 
----
+* [Vibecoding x Cybersecurity: Survival Guide by the Expert Who Fixes Your Code After You](https://karozieminski.substack.com/p/vibecoding-cybersecurity-fix-the-7-code-mistakes-leaving-your-startup-wide-open-and-vulnerable-playbook)
 
-## Playbooks
+* [GitHub Guide for Beginners: Repos, Branching, Merging, and Commits Explained](https://karozieminski.substack.com/p/github-guide-for-beginners-repos)
 
-* **401 Investigator** — automated root-cause loop for auth failures (“stop-on-fix” + logging).
-* **Prompt Anti-Regression** — validate diffs don’t regress against canonical outputs.
-* **Spec-to-Slice** — turn PRD into a vertical slice with guardrails and exit criteria.
-* **Migration** — staged rollout, backfills, data checks, revert strategy.
+* [Vibecoding, Spec-driven, And The New AI Development Lexicon: A Definitive Guide for Modern Product Builders](https://karozieminski.substack.com/p/vibecoding-spec-driven-and-the-new)
 
-> Copyable code snippets in `/playbooks/*`.
+* [Is Your Replit Looping? This Will Help.](https://karozieminski.substack.com/p/is-your-replit-looping-this-will)
 
----
+* [Vibecoding for Product Managers - A Movement You Don't Want To Miss](https://karozieminski.substack.com/p/vibecoding-pms-a-movement-you-dont)
 
-## Spec-Driven Templates
+* [Building Agentic Workflows with Claude Skills](https://karozieminski.substack.com/p/claude-skills-anthropic-viral-toolkit-agentic-workflows-community-guide)
 
-* `prd.md` — single-source-of-truth; scope, risks, success metrics.
-* `design.md` — UX flows, states, constraints.
-* `runbook.md` — alerts, dashboards, oncall actions.
-* `replit.md` — agent-safe repo manifest; tasks, boundaries, fixtures.
+* [Building Automations with Perplexity Comet]([link](https://karozieminski.substack.com/p/perplexity-comet-advanced-use-cases-guide)
+
 
 ---
+## Prompt Packs
 
-## Vibecoding Prompts
+* [Prompt Builder](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - a viral, reusable framework for building context-rich prompts.
 
-* **Builder Loop** — “understand → propose → confirm → implement → verify → document”.
-* **Anti-Entropy** — refuse to proceed without spec deltas acknowledged.
-* **Eval Pack** — scenario tests + golden outputs.
+* [The PRD Builder](https://karozieminski.substack.com/p/vibecoding-but-smarter-the-prd-prompt) - The PRD Prompt That Audits Itself For Hallucinations and Failure Modes
 
-> See `/prompts/*.md`. Drop into your Prompt Wallet.
+* [Prompt Evaluation Chain](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - two-step system for prompt evaluation and refinement uses a 35-criteria rubric to score, critique, and improve prompts systematically. It’s designed as a project prompt, which makes it easily reusable (I use it for all my prompts)
 
----
 
-## StackShelf Integrations
+* [100 Most Common UI Elements For Vibecoders](https://karozieminski.substack.com/p/prompt-pack-100-most-common-ui-elements-for-vibecoding)
 
-* **Shelf Profile** — showcase freebies, paid assets, and bundles.
-* **Shelf Badges** — one-liner embeds for your README and Substack.
-* **Referrals** — track clicks → store conversions; add to your About page.
+* [Animation Pack 001: Hero Section - Breathing Gradient](https://karozieminski.substack.com/p/hero-organic-gradient-animation-pack-prompt-guide-plug-play-microinteraction) - A tiny motion system for modern landing pages - a subtle, human-feeling breathing animation that instantly upgrades first impressions. Deliverables: Copy-paste prompt file + step-by-step guide you can feed into your coding agent.
 
-```html
-<!-- Simple StackShelf badge -->
-<a href="https://stackshelf.app/🔧your-handle" target="_blank">
-  <img src="https://img.shields.io/badge/StackShelf-Explore_Products-5B6FFF" alt="Karo Z. — Product With Attitude — StackShelf">
-</a>
-```
+* [Instantly Fix 401 Errors](https://karozieminski.substack.com/p/vibecoding-prompts-instantly-fix) - An Automated Debug Loop That Runs 30+ Checks and Finds Root Cause
 
----
-
-## Attitude Vault References
-
-Curated prompts, templates, and frameworks that pair with this repo.
-
-* **Vault Index**: [https://attitudevault.dev](https://attitudevault.dev)
-* **Spec Toolkit**: `/vault/spec/`
-* **Agent Safety**: `/vault/agent-safety/`
-* **AIO/SEO Blocks**: `/vault/aio/`
-
----
-
-## Architecture (Mermaid)
-
-```mermaid
-flowchart LR
-  Idea[Idea] --> Spec[PRD / design.md]
-  Spec --> Slice[Vertical Slice]
-  Slice --> Tests[Goldens & Evals]
-  Tests --> Ship[Release]
-  Ship --> Learn[Telemetry & Feedback]
-  Learn --> Idea
-```
 
 ---
 
 ## Community
 
 * **Newsletter**: [Product with Attitude](https://karozieminski.substack.com/)
-* **Showcase**: [StackShelf](https://stackshelf.app)
 * **Prompt Library**: [Attitude Vault](https://attitudevault.dev)
-* **Badges**: “On Fire”, “Kind/Supportive”, “Collaboration” — nominate folks via Issues.
 
 ---
 
@@ -228,25 +123,6 @@ flowchart LR
 
 You’re free to use, modify, and share everything in this repository (and my GitHub gists) for personal or commercial projects.
 The only requirement: please credit my [Substack ↗](https://karozieminski.substack.com/) wherever you reuse, adapt, or redistribute this work.
-
----
-
-## Changelog
-
-* `2025-09-24` — Initial public template; added AIO/SEO block and StackShelf embeds.
-
----
-
-## FAQ
-
-**Q: Can I remix these checklists?**
-A: Yes. Keep attribution to *Product with Attitude* and link back to this repo or Substack.
-
-**Q: Where do I start?**
-A: Clone → read `/resources/README.md` → pick a checklist → ship a slice.
-
-**Q: How do I get featured on StackShelf?**
-A: Open an Issue with links to your products and add the `stackshelf-candidate` label.
 
 ---
 
