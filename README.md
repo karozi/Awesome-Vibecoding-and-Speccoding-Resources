@@ -11,7 +11,7 @@
 
 <!-- Tagline (short, ownable, repeatable) -->
 
-<p align="center"><b>Vibecoding & Spec-Driven Excellence</b> — blazing fast, AI-assisted, product-grade shipping.</p>
+<p align="center"><b>Vibecoding & Spec-Driven Excellence</b> — AI-assisted, responsible, product-grade shipping.</p>
 
 <!-- Shields: authority + community -->
 
@@ -132,6 +132,11 @@ The only requirement: please credit my [Substack ↗](https://karozieminski.subs
 
 * **Author**: [Karo Z.](https://karozieminski.substack.com/)
 * **Inspiration**: Awesome-repo patterns, pragmatic OSS READMEs, and ship-fast playbooks.
+
+---
+
+## Tags  
+`#vibecoding` `#speccoding` `#tutorials` `#prompts` `#AI-assisted`
 
 ---
 
