@@ -74,7 +74,9 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 
 * [Building Agentic Workflows with Claude Skills](https://karozieminski.substack.com/p/claude-skills-anthropic-viral-toolkit-agentic-workflows-community-guide)
 
-* [Building Automations with Perplexity Comet]([link](https://karozieminski.substack.com/p/perplexity-comet-advanced-use-cases-guide)
+* [Building Automations with Perplexity Comet](https://karozieminski.substack.com/p/perplexity-comet-advanced-use-cases-guide)
+
+* [Building Automations with Manus AI](https://karozieminski.substack.com/p/automate-youtube-content-repurposing)
 
 
 ---
