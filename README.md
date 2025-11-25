@@ -48,13 +48,27 @@
 Welcome to the Awesome Vibecoding and Speccoding Resources repo—a living collection of checklists, guides, and practical tools for creators, product managers, and AI builders.
 Whether you’re vibecoding, spec-driven, or just curious about rapid prototyping in the age of agentic workflows, you’ll find something useful here.
 
+
+[Join The Community ↗](https://karozieminski.substack.com/)
+
 ---
 
 ## Quick Start
 
-* **Explore the checklists**: Each checklist is actionable and testable. Start with the README and branch out to `/resources`.
-* **Join the community**: [Connect on Substack ↗](https://karozieminski.substack.com/)
+### Contents
 
+```
+  Awesome-Vibecoding-and-Speccoding-Resources/
+  ├── generator prompts/
+  ├── guides/
+  │   └── Cheatsheet_curl_for_Product_Builders.md
+  ├── terminology-and-lexicon/
+  │   ├── README.md
+  │   └── Vibecoding_vs_Spec‑Driven.md
+  ├── ui-prompts/
+  ├── README.md
+  └── for-machines.jsonld
+```
 
 ---
 
