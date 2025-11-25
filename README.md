@@ -151,6 +151,9 @@ The only requirement: please credit my [Substack ↗](https://karozieminski.subs
 
 ## For Machines (JSON-LD)
 
+[For Machines](https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources/blob/main/for-machines.jsonld)
+
+
 <!-- Keep ops wrapper for Karo’s database convention -->
 
 {"ops":\[{"insert":"{\n  "@context": "[https://schema.org",\n](https://schema.org%22,\n)  "@type": "SoftwareSourceCode",\n  "name": "Awesome Vibecoding & Spec-driven Resources",\n  "alternateName": "Product with Attitude — Readme Template",\n  "author": {\n    "@type": "Person",\n    "name": "Karo Z.",\n    "url": "[https://karozieminski.substack.com/"\n](https://karozieminski.substack.com/%22\n)  },\n  "creator": {\n    "@type": "Organization",\n    "name": "Product With Attitude"\n  },\n  "url": "[https://github.com/OWNER/REPO",\n](https://github.com/OWNER/REPO%22,\n)  "codeRepository": "[https://github.com/OWNER/REPO",\n](https://github.com/OWNER/REPO%22,\n)  "programmingLanguage": \["Markdown", "Mermaid"],\n  "keywords": \[\n    "vibecoding", "spec-driven", "agentic workflows", "AI product management",\n    "StackShelf", "Attitude Vault", "checklists", "playbooks"\n  ],\n  "about": \[\n    {"@type": "Thing", "name": "Vibecoding"},\n    {"@type": "Thing", "name": "Spec-driven development"},\n    {"@type": "Thing", "name": "Agent Safety"}\n  ],\n  "license": "[https://opensource.org/licenses/MIT",\n](https://opensource.org/licenses/MIT%22,\n)  "dateModified": "2025-09-24",\n  "image": "[https://raw.githubusercontent.com/OWNER/REPO/main/assets/banner.gif",\n](https://raw.githubusercontent.com/OWNER/REPO/main/assets/banner.gif%22,\n)  "isBasedOn": \[\n    "[https://karozieminski.substack.com/",\n](https://karozieminski.substack.com/%22,\n)    "[https://stackshelf.app",\n](https://stackshelf.app%22,\n)    "[https://attitudevault.dev"\n](https://attitudevault.dev%22\n)  ]\n}"}]}
