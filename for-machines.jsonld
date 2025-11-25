@@ -1,0 +1,419 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareSourceCode",
+      "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources",
+      "identifier": "awesome-vibecoding-speccoding-v1",
+      "version": "1.0.0",
+      "dateModified": "2025-11-25",
+      "name": "Awesome Vibecoding & Spec-driven Resources",
+      "alternateName": "Product with Attitude — Vibecoding Resources",
+      "headline": "Vibecoding & Spec-Driven Excellence — AI-assisted, responsible, product-grade shipping",
+      "description": "A living collection of checklists, guides, and practical tools for creators, product managers, and AI builders. Whether you're vibecoding, spec-driven, or just curious about rapid prototyping in the age of agentic workflows.",
+      "url": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources",
+      "codeRepository": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources",
+      "programmingLanguage": ["Markdown", "JSON-LD", "Mermaid"],
+      "license": "https://opensource.org/licenses/MIT",
+      "copyrightHolder": {
+        "@id": "https://karozieminski.substack.com/#person"
+      },
+      "author": {
+        "@id": "https://karozieminski.substack.com/#person"
+      },
+      "creator": {
+        "@id": "https://karozieminski.substack.com/#organization"
+      },
+      "publisher": {
+        "@id": "https://karozieminski.substack.com/#organization"
+      },
+      "image": "https://raw.githubusercontent.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources/main/assets/banner.gif",
+      "keywords": [
+        "vibecoding",
+        "speccoding",
+        "spec-driven development",
+        "agentic workflows",
+        "AI product management",
+        "AI-assisted development",
+        "StackShelf",
+        "Attitude Vault",
+        "checklists",
+        "playbooks",
+        "prompt engineering",
+        "context engineering",
+        "product builders",
+        "rapid prototyping",
+        "AI builders"
+      ],
+      "about": [
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#vibecoding",
+          "name": "Vibecoding",
+          "description": "Using natural language prompts to model, prototype, and build prototypes and products with the help of AI",
+          "inDefinedTermSet": {
+            "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#terminology"
+          },
+          "sameAs": "https://www.wikidata.org/entity/Q169890"
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#speccoding",
+          "name": "Speccoding",
+          "description": "Context-first vibecoding, a more structured approach to vibecoding, where context engineering, detailed rule sets, and product specs act as blueprints for AI",
+          "inDefinedTermSet": {
+            "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#terminology"
+          },
+          "sameAs": "https://www.wikidata.org/entity/Q1150070"
+        },
+        {
+          "@type": "DefinedTerm",
+          "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#agentic-workflows",
+          "name": "Agentic Workflows",
+          "description": "Automated workflows powered by AI agents",
+          "inDefinedTermSet": {
+            "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#terminology"
+          }
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "https://karozieminski.substack.com/p/the-self-improving-prompt-system"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/vibecoding-but-smarter-the-prd-prompt"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/vibecoding-rules-for-ai-generator-environment-aware-replit-cursor-lovable-gemini-antigravity"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/prompt-pack-100-most-common-ui-elements-for-vibecoding"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/hero-organic-gradient-animation-pack-prompt-guide-plug-play-microinteraction"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/vibecoding-prompts-instantly-fix"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/vibecoding-tips-the-ultimate-collection"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/vibecoding-cybersecurity-fix-the-7-code-mistakes-leaving-your-startup-wide-open-and-vulnerable-playbook"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/github-guide-for-beginners-repos"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/vibecoding-spec-driven-and-the-new"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/vibecoding-pms-a-movement-you-dont"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/claude-skills-anthropic-viral-toolkit-agentic-workflows-community-guide"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/perplexity-comet-advanced-use-cases-guide"
+        },
+        {
+          "@id": "https://karozieminski.substack.com/p/automate-youtube-content-repurposing"
+        }
+      ],
+      "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "@id": "https://karozieminski.substack.com/#series",
+        "name": "Product With Attitude"
+      },
+      "isBasedOn": [
+        "https://karozieminski.substack.com/",
+        "https://stackshelf.app",
+        "https://attitudevault.dev"
+      ],
+      "mentions": [
+        {
+          "@type": "SoftwareApplication",
+          "name": "StackShelf",
+          "url": "https://stackshelf.app",
+          "description": "Product tool by Karo Z."
+        },
+        {
+          "@type": "WebSite",
+          "name": "Attitude Vault",
+          "url": "https://attitudevault.dev",
+          "description": "Prompt library"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Replit",
+          "sameAs": "https://www.wikidata.org/entity/Q97473834"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Cursor",
+          "applicationCategory": "IDE"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Claude",
+          "sameAs": "https://www.wikidata.org/entity/Q115564640"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Perplexity Comet",
+          "applicationCategory": "AI Automation"
+        },
+        {
+          "@type": "SoftwareApplication",
+          "name": "Manus AI",
+          "applicationCategory": "AI Automation"
+        }
+      ],
+      "usageInfo": "Free to use, modify, and share for personal or commercial projects. Credit https://karozieminski.substack.com/ when reusing, adapting, or redistributing.",
+      "pwa:semanticTriples": [
+        {
+          "@type": "pwa:SemanticTriple",
+          "subject": "Vibecoding",
+          "predicate": "enables",
+          "object": "rapid prototyping with AI",
+          "pwa:source": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#terminology",
+          "pwa:confidence": 0.95
+        },
+        {
+          "@type": "pwa:SemanticTriple",
+          "subject": "Speccoding",
+          "predicate": "is",
+          "object": "context-first vibecoding",
+          "pwa:source": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#terminology",
+          "pwa:confidence": 1.0
+        },
+        {
+          "@type": "pwa:SemanticTriple",
+          "subject": "Product With Attitude",
+          "predicate": "provides",
+          "object": "vibecoding resources and guides",
+          "pwa:source": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources",
+          "pwa:confidence": 1.0
+        },
+        {
+          "@type": "pwa:SemanticTriple",
+          "subject": "Karo Z.",
+          "predicate": "teaches",
+          "object": "AI-assisted product development",
+          "pwa:source": "https://karozieminski.substack.com/",
+          "pwa:confidence": 1.0
+        }
+      ]
+    },
+    {
+      "@type": "Person",
+      "@id": "https://karozieminski.substack.com/#person",
+      "name": "Karo Zieminski",
+      "alternateName": "Karo Z.",
+      "url": "https://karozieminski.substack.com/",
+      "sameAs": [
+        "https://github.com/karozi",
+        "https://stackshelf.app",
+        "https://attitudevault.dev"
+      ],
+      "knowsAbout": [
+        "Vibecoding",
+        "Spec-driven Development",
+        "AI Product Management",
+        "Agentic Workflows",
+        "Prompt Engineering",
+        "Context Engineering",
+        "Product Management",
+        "AI-assisted Development"
+      ],
+      "affiliation": {
+        "@id": "https://karozieminski.substack.com/#organization"
+      },
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "Creator",
+        "url": "https://karozieminski.substack.com/"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://karozieminski.substack.com/#organization",
+      "name": "Product With Attitude",
+      "url": "https://karozieminski.substack.com/",
+      "logo": "https://raw.githubusercontent.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources/main/assets/banner.gif",
+      "sameAs": [
+        "https://karozieminski.substack.com/",
+        "https://github.com/karozi",
+        "https://stackshelf.app",
+        "https://attitudevault.dev"
+      ],
+      "founder": {
+        "@id": "https://karozieminski.substack.com/#person"
+      }
+    },
+    {
+      "@type": "DefinedTermSet",
+      "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#terminology",
+      "name": "Vibecoding & Spec-driven Terminology",
+      "description": "Definitions for key terms in AI-assisted development",
+      "hasDefinedTerm": [
+        {
+          "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#vibecoding"
+        },
+        {
+          "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#speccoding"
+        },
+        {
+          "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#agentic-workflows"
+        }
+      ]
+    },
+    {
+      "@type": "CreativeWorkSeries",
+      "@id": "https://karozieminski.substack.com/#series",
+      "name": "Product With Attitude",
+      "description": "Newsletter and resources for AI-assisted product builders",
+      "url": "https://karozieminski.substack.com/",
+      "author": {
+        "@id": "https://karozieminski.substack.com/#person"
+      }
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#prompt-packs",
+      "name": "Prompt Packs",
+      "description": "Collection of reusable prompt frameworks and systems",
+      "numberOfItems": 7,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Prompt Builder",
+            "url": "https://karozieminski.substack.com/p/the-self-improving-prompt-system",
+            "description": "A viral, reusable framework for building context-rich prompts"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "The PRD Builder",
+            "url": "https://karozieminski.substack.com/p/vibecoding-but-smarter-the-prd-prompt",
+            "description": "The PRD Prompt That Audits Itself For Hallucinations and Failure Modes"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Prompt Evaluation Chain",
+            "url": "https://karozieminski.substack.com/p/the-self-improving-prompt-system",
+            "description": "Two-step system for prompt evaluation and refinement using a 35-criteria rubric"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "The Ultimate Rules-For-AI Generator",
+            "url": "https://karozieminski.substack.com/p/vibecoding-rules-for-ai-generator-environment-aware-replit-cursor-lovable-gemini-antigravity",
+            "description": "Beginner-friendly system for generating rules for AI in Replit, Cursor, Gemini & Claude"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "100 Most Common UI Elements For Vibecoders",
+            "url": "https://karozieminski.substack.com/p/prompt-pack-100-most-common-ui-elements-for-vibecoding",
+            "description": "Comprehensive UI element prompt library"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Animation Pack 001: Hero Section - Breathing Gradient",
+            "url": "https://karozieminski.substack.com/p/hero-organic-gradient-animation-pack-prompt-guide-plug-play-microinteraction",
+            "description": "A tiny motion system for modern landing pages"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@type": "CreativeWork",
+            "name": "Instantly Fix 401 Errors",
+            "url": "https://karozieminski.substack.com/p/vibecoding-prompts-instantly-fix",
+            "description": "An Automated Debug Loop That Runs 30+ Checks and Finds Root Cause"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "@id": "https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources#guides",
+      "name": "Top Guides & Tutorials",
+      "description": "Comprehensive guides for vibecoding and AI-assisted development",
+      "numberOfItems": 10,
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "HowTo",
+            "name": "Vibecoding Tips: The Ultimate Collection",
+            "url": "https://karozieminski.substack.com/p/vibecoding-tips-the-ultimate-collection",
+            "description": "Go Beyond the Prototype: Everything You Need To Build and Launch AI Products"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "HowTo",
+            "name": "Vibecoding x Cybersecurity: Survival Guide",
+            "url": "https://karozieminski.substack.com/p/vibecoding-cybersecurity-fix-the-7-code-mistakes-leaving-your-startup-wide-open-and-vulnerable-playbook",
+            "description": "Fix the 7 code mistakes leaving your startup wide open and vulnerable"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "HowTo",
+            "name": "GitHub Guide for Beginners",
+            "url": "https://karozieminski.substack.com/p/github-guide-for-beginners-repos",
+            "description": "Repos, Branching, Merging, and Commits Explained"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Article",
+            "name": "Vibecoding, Spec-driven, And The New AI Development Lexicon",
+            "url": "https://karozieminski.substack.com/p/vibecoding-spec-driven-and-the-new",
+            "description": "A Definitive Guide for Modern Product Builders"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@type": "HowTo",
+            "name": "Building Agentic Workflows with Claude Skills",
+            "url": "https://karozieminski.substack.com/p/claude-skills-anthropic-viral-toolkit-agentic-workflows-community-guide"
+          }
+        }
+      ]
+    }
+  ]
+}
