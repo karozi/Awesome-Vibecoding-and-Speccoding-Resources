@@ -60,6 +60,11 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 
 ## Terminology
 
+### Folder
+[terminology-and-lexicon](https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources/tree/main/terminology-and-lexicon)
+
+### Example
+
 * **Vibecoding**: Using natural language prompts to model, prototype, and build prototypes and products with the help of AI.
 
 * **Speccoding**: Context-first vibecoding, a more structured approach to vibecoding, where context engineering, detailed rule sets, and product specs act as blueprints for AI, turning prompts into automatic, buildable features and processes.
@@ -68,6 +73,14 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 ---
 
 ## Prompt Packs
+
+### Folders
+
+* [generator-prompts](https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources/tree/main/generator%20prompts)
+
+* [UI-prompts](https://github.com/karozi/Awesome-Vibecoding-and-Speccoding-Resources/tree/main/ui-prompts)
+
+### Examples
 
 * [Prompt Builder](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - a viral, reusable framework for building context-rich prompts.
 
