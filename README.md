@@ -75,7 +75,7 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 
 * [Prompt Evaluation Chain](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - two-step system for prompt evaluation and refinement uses a 35-criteria rubric to score, critique, and improve prompts systematically. It’s designed as a project prompt, which makes it easily reusable (I use it for all my prompts)
 
-* [The Ultimate Rules-For-AI Generator: A Beginner-Friendly System for Replit, Cursor, Gemini & Claude Builders](https://karozieminski.substack.com/p/vibecoding-rules-for-ai-generator-environment-aware-replit-cursor-lovable-gemini-antigravity)
+* [The Ultimate Rules-For-AI Generator: A Beginner-Friendly System for Replit, Cursor, Gemini & Claude Builders](https://karozieminski.substack.com/p/vibecoding-rules-for-ai-generator-environment-aware-replit-cursor-lovable-gemini-antigravity) - This prompt is a complete, beginner-friendly system for generating rules for AI.
 
 * [100 Most Common UI Elements For Vibecoders](https://karozieminski.substack.com/p/prompt-pack-100-most-common-ui-elements-for-vibecoding)
 
