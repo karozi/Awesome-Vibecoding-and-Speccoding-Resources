@@ -74,7 +74,6 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
   ├── guides/
   │   └── cheatsheet_curl_for_product_builders.md
   ├── terminology-and-lexicon/
-  │   ├── README.md
   │   ├── vibecoding-vs-speccoding.md
   │   └── vibecoding_vs_spec‑driven.md
   ├── ui-prompts/
