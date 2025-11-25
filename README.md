@@ -59,6 +59,13 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 
 ```
   Awesome-Vibecoding-and-Speccoding-Resources/
+  ├── agentic-automations-prompts/
+  │   ├── agentic-automations-prompts.md
+  │   ├── claude-skills-automations.md
+  │   ├── manus-ai-automations.md
+  │   ├── perplexity-comet-automations.md
+  ├── animation prompts/
+  │   ├── animation-hero-section-breathing-gradient.md
   ├── generator prompts/
   │   ├── prompt-evaluation-chain.md
   │   ├── prompt-builder.md
