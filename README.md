@@ -73,9 +73,11 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
   │   ├── rules-for-AI-agents-builder.md
   ├── guides/
   │   └── cheatsheet_curl_for_product_builders.md
+  │   └── github-for-beginners.md
+  │   └── vibecoding-guides-ultimate-collection.md
   ├── terminology-and-lexicon/
   │   ├── vibecoding-vs-speccoding.md
-  │   └── vibecoding_vs_spec‑driven.md
+  │   └── vibecoding-vs-specdriven.md
   ├── ui-prompts/
   │   ├── 100-ui-elements-for-vibecoders.md
   ├── README.md
