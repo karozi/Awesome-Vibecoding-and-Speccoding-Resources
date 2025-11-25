@@ -43,7 +43,7 @@
 [![Made with Love](https://img.shields.io/badge/made%20with-🧡-orange?style=for-the-badge)](https://stackshelf.app)
 
 **Author**: [Karo Z.](https://karozieminski.substack.com/)
-**Last updated**: 11 November 2025
+**Last updated**: 25 November 2025
 
 Welcome to the Awesome Vibecoding and Speccoding Resources repo—a living collection of checklists, guides, and practical tools for creators, product managers, and AI builders.
 Whether you’re vibecoding, spec-driven, or just curious about rapid prototyping in the age of agentic workflows, you’ll find something useful here.
@@ -55,9 +55,35 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 * **Explore the checklists**: Each checklist is actionable and testable. Start with the README and branch out to `/resources`.
 * **Join the community**: [Connect on Substack ↗](https://karozieminski.substack.com/)
 
+
 ---
 
+## Terminology
 
+* **Vibecoding**: Using natural language prompts to model, prototype, and build prototypes and products with the help of AI.
+
+* **Speccoding**: Context-first vibecoding, a more structured approach to vibecoding, where context engineering, detailed rule sets, and product specs act as blueprints for AI, turning prompts into automatic, buildable features and processes.
+
+
+---
+
+## Prompt Packs
+
+* [Prompt Builder](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - a viral, reusable framework for building context-rich prompts.
+
+* [The PRD Builder](https://karozieminski.substack.com/p/vibecoding-but-smarter-the-prd-prompt) - The PRD Prompt That Audits Itself For Hallucinations and Failure Modes
+
+* [Prompt Evaluation Chain](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - two-step system for prompt evaluation and refinement uses a 35-criteria rubric to score, critique, and improve prompts systematically. It’s designed as a project prompt, which makes it easily reusable (I use it for all my prompts)
+
+
+* [100 Most Common UI Elements For Vibecoders](https://karozieminski.substack.com/p/prompt-pack-100-most-common-ui-elements-for-vibecoding)
+
+* [Animation Pack 001: Hero Section - Breathing Gradient](https://karozieminski.substack.com/p/hero-organic-gradient-animation-pack-prompt-guide-plug-play-microinteraction) - A tiny motion system for modern landing pages - a subtle, human-feeling breathing animation that instantly upgrades first impressions. Deliverables: Copy-paste prompt file + step-by-step guide you can feed into your coding agent.
+
+* [Instantly Fix 401 Errors](https://karozieminski.substack.com/p/vibecoding-prompts-instantly-fix) - An Automated Debug Loop That Runs 30+ Checks and Finds Root Cause
+
+
+---
 ## Top Guides & Tutorials
 
 * [Vibecoding Tips: The Ultimate Collection - Go Beyond the Prototype: Everything You Need To Build and Launch AI Products](https://karozieminski.substack.com/p/vibecoding-tips-the-ultimate-collection)
@@ -77,24 +103,6 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 * [Building Automations with Perplexity Comet](https://karozieminski.substack.com/p/perplexity-comet-advanced-use-cases-guide)
 
 * [Building Automations with Manus AI](https://karozieminski.substack.com/p/automate-youtube-content-repurposing)
-
-
----
-## Prompt Packs
-
-* [Prompt Builder](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - a viral, reusable framework for building context-rich prompts.
-
-* [The PRD Builder](https://karozieminski.substack.com/p/vibecoding-but-smarter-the-prd-prompt) - The PRD Prompt That Audits Itself For Hallucinations and Failure Modes
-
-* [Prompt Evaluation Chain](https://karozieminski.substack.com/p/the-self-improving-prompt-system) - two-step system for prompt evaluation and refinement uses a 35-criteria rubric to score, critique, and improve prompts systematically. It’s designed as a project prompt, which makes it easily reusable (I use it for all my prompts)
-
-
-* [100 Most Common UI Elements For Vibecoders](https://karozieminski.substack.com/p/prompt-pack-100-most-common-ui-elements-for-vibecoding)
-
-* [Animation Pack 001: Hero Section - Breathing Gradient](https://karozieminski.substack.com/p/hero-organic-gradient-animation-pack-prompt-guide-plug-play-microinteraction) - A tiny motion system for modern landing pages - a subtle, human-feeling breathing animation that instantly upgrades first impressions. Deliverables: Copy-paste prompt file + step-by-step guide you can feed into your coding agent.
-
-* [Instantly Fix 401 Errors](https://karozieminski.substack.com/p/vibecoding-prompts-instantly-fix) - An Automated Debug Loop That Runs 30+ Checks and Finds Root Cause
-
 
 ---
 
