@@ -60,12 +60,18 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 ```
   Awesome-Vibecoding-and-Speccoding-Resources/
   ├── generator prompts/
+  │   ├── prompt-evaluation-chain.md
+  │   ├── prompt-builder.md
+  │   ├── PRD-builder.md
+  │   ├── rules-for-AI-agents-builder.md
   ├── guides/
-  │   └── Cheatsheet_curl_for_Product_Builders.md
+  │   └── cheatsheet_curl_for_product_builders.md
   ├── terminology-and-lexicon/
   │   ├── README.md
-  │   └── Vibecoding_vs_Spec‑Driven.md
+  │   ├── vibecoding-vs-speccoding.md
+  │   └── vibecoding_vs_spec‑driven.md
   ├── ui-prompts/
+  │   ├── 100-ui-elements-for-vibecoders.md
   ├── README.md
   └── for-machines.jsonld
 ```
