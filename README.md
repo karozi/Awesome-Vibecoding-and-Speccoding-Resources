@@ -100,6 +100,10 @@ Whether you’re vibecoding, spec-driven, or just curious about rapid prototypin
 
 ---
 
+**Why building with AI is critical for AI literacy**
+
+https://open.substack.com/pub/karozieminski/p/critical-ai-literacy-product-thinking
+
 ## Prompt Packs
 
 ### Folders
