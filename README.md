@@ -38,6 +38,10 @@
 
 
 # Awesome Vibecoding & Spec-driven Resources
+## Why building tiny projects with AI develops critical literacy: 
+
+![building_tiny projects_with_AI develops_critical_literacy](https://github.com/user-attachments/assets/8ad59e0e-a71c-491d-96e0-ec00bff84505)
+
 
 [![Product with Attitude](https://img.shields.io/badge/Product%20with-Attitude-FF6851?style=for-the-badge)](https://karozieminski.substack.com/)
 [![Made with Love](https://img.shields.io/badge/made%20with-🧡-orange?style=for-the-badge)](https://stackshelf.app)
