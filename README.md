@@ -162,6 +162,7 @@ https://open.substack.com/pub/karozieminski/p/critical-ai-literacy-product-think
 * **Prompt Library**: [Attitude Vault](https://attitudevault.dev)
 
 ---
+* **[VibeHacker](https://vibehacker.com)** — Product discovery community for AI builders and vibe coders: directory, reviews, discussions, and launches.
 
 ## Contributing
 
